@@ -9,7 +9,7 @@ configurable soldermask colour, copper finish, and silkscreen colour.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-<img width="1146" height="913" alt="image" src="[https://github.com/user-attachments/assets/237f9fd3-cab8-4d0e-a99b-8c8bc8f96635](https://github.com/dctechster/gerber-package-viewer/blob/a12669965a9a388d5fa3271b75c5bffc0102e182/screenshot.jpg)" />
+<img width="1146" height="913" alt="image" src="https://github.com/dctechster/gerber-package-viewer/blob/a12669965a9a388d5fa3271b75c5bffc0102e182/screenshot.jpg" />
 
 ## Features
 
